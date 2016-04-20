@@ -57,7 +57,7 @@
     "@caret-width-large": "5px",
     "@table-cell-padding": "8px",
     "@table-condensed-cell-padding": "5px",
-    "@table-bg": "rgb(102, 189, 99)",
+    "@table-bg": "rgb(215, 48, 39)",
     "@table-bg-accent": "#f9f9f9",
     "@table-bg-hover": "#f5f5f5",
     "@table-bg-active": "@table-bg-hover",
@@ -431,5 +431,5 @@
     "scrollspy.js",
     "transition.js"
   ],
-  "customizerUrl": "http://getbootstrap.com/customize/?id=8bc83b0f8fe9ef5ce851783ffb52bd4d"
+  "customizerUrl": "http://getbootstrap.com/customize/?id=7833e7dab9b5265892f47b452c9de52b"
 }
