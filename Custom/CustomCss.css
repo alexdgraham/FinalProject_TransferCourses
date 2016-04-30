@@ -1,1 +1,17 @@
 
+body {
+    position: center;
+    width: 1500px;
+    border: 35px solid rgb(102, 189, 99);
+    }
+
+.jumbotron{
+text-align: center;
+}
+
+.dropdown{
+}
+
+.dropdown:hover{
+background: rgb(215, 48, 39);
+}
